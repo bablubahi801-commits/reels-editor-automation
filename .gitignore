@@ -1,2 +1,6 @@
 node_modules/
 out/
+raw/
+work/audio.wav
+work/rms.txt
+__pycache__/

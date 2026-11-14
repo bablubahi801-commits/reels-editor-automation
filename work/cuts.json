@@ -1,0 +1,102 @@
+[
+ [
+  0.89,
+  3.59,
+  "silence 2.80s"
+ ],
+ [
+  4.37,
+  4.81,
+  "silence 0.54s"
+ ],
+ [
+  5.79,
+  7.11,
+  "silence 1.42s"
+ ],
+ [
+  8.09,
+  8.73,
+  "silence 0.74s"
+ ],
+ [
+  9.24,
+  9.52,
+  "filler word \"uh\""
+ ],
+ [
+  9.57,
+  12.15,
+  "silence 2.68s"
+ ],
+ [
+  15.23,
+  15.81,
+  "silence 0.68s"
+ ],
+ [
+  19.72,
+  20.36,
+  "false start / bad take: \"she says, like,\" abandoned, restarted at 24.6s"
+ ],
+ [
+  20.41,
+  24.37,
+  "silence 4.06s"
+ ],
+ [
+  30.91,
+  31.43,
+  "silence 0.62s"
+ ],
+ [
+  34.95,
+  36.19,
+  "silence 1.34s"
+ ],
+ [
+  38.67,
+  39.53,
+  "silence 0.96s"
+ ],
+ [
+  40.75,
+  41.69,
+  "silence 1.04s"
+ ],
+ [
+  43.37,
+  44.85,
+  "silence 1.58s"
+ ],
+ [
+  49.75,
+  50.81,
+  "silence 1.16s"
+ ],
+ [
+  51.2,
+  54.55,
+  "repeated/bad take: \"we will change the schedule\" -> slip \"...the marriage\" -> retaken at 54.6s (kept last)"
+ ],
+ [
+  57.65,
+  58.15,
+  "silence 0.60s"
+ ],
+ [
+  74.87,
+  75.91,
+  "silence 1.14s"
+ ],
+ [
+  77.89,
+  78.57,
+  "silence 0.78s"
+ ],
+ [
+  80.19,
+  80.93,
+  "silence 0.84s"
+ ]
+]
