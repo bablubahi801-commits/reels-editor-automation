@@ -5,3 +5,5 @@ work/audio.wav
 work/rms.txt
 __pycache__/
 output/talking-head-cut.mp4
+output/talking-head-final.mp4
+public/talking-head-cut.mp4
