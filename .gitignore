@@ -4,3 +4,4 @@ raw/
 work/audio.wav
 work/rms.txt
 __pycache__/
+output/talking-head-cut.mp4
