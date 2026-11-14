@@ -1,5 +1,6 @@
 import {Composition} from 'remotion';
 import {ReelEdit, ReelEditProps} from './ReelEdit';
+import {SetupComplete} from './SetupComplete';
 
 const defaultProps: ReelEditProps = {
   videoSrc: null, // e.g. 'input.mp4' (file placed in public/)
@@ -12,6 +13,8 @@ const defaultProps: ReelEditProps = {
 };
 
 export const Root: React.FC = () => (
+  <>
+  <Composition id="SetupComplete" component={SetupComplete} durationInFrames={150} fps={30} width={1080} height={1920} />
   <Composition
     id="ReelEdit"
     component={ReelEdit}
@@ -21,4 +24,5 @@ export const Root: React.FC = () => (
     height={1920}
     defaultProps={defaultProps}
   />
+  </>
 );
