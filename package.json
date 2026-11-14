@@ -1,0 +1,38 @@
+{
+  "name": "reels-editor-automation",
+  "version": "1.0.0",
+  "description": "AI-powered Instagram Reels video editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts ReelEdit out/reel.mp4",
+    "typecheck": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bablubahi801-commits/reels-editor-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bablubahi801-commits/reels-editor-automation/issues"
+  },
+  "homepage": "https://github.com/bablubahi801-commits/reels-editor-automation#readme",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@remotion/captions": "^4.0.543",
+    "@remotion/cli": "^4.0.543",
+    "@remotion/media-utils": "^4.0.543",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.543"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
